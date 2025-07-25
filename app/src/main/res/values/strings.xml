@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentClassManager</string>
+    <string-array name="choices">
+        <item>Sinh viên</item>
+        <item>Lớp</item>
+    </string-array>
+    <string name="title_activity_student_details">Chi tiết Sinh viên</string>
+    <string name="title_activity_class_details">Chi tiết Lớp</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_edit">Sửa</string>
+    <string name="btn_delete">Xóa</string>
+</resources>
